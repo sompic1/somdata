@@ -1,1 +1,41 @@
-
+{
+  "manga_id": "the-greatest-estate-developer",
+  "title": "The Greatest Estate Developer",
+  "alternative_title": "The Greatest Estate Designer / Jeonjijeok Dokja Sijeom / 역대급 영지 설계사",
+  "status": "Ongoing",
+  "author": "Lee Hyunmin",
+  "artist": "Kim Hyunsoo",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Isekai",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2021,
+  "rating": "4.9",
+  "synopsis": "Ketika mahasiswa teknik sipil Kim Suho terbangun sebagai Lloyd Frontera, seorang bangsawan pemalas dan pemabuk yang keluarganya terlilit utang besar, dia memutuskan untuk menggunakan ilmu teknik sipilnya demi menyelamatkan masa depannya. Dengan bantuan ksatria setia Javier Asrahan, Lloyd mulai merancang infrastruktur luar biasa untuk mengubah tanah rongsokan menjadi wilayah paling maju.",
+  "cover_url": "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "Rekarnasi Jadi Bangsawan Bangkrut",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-001/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "Ilmu Teknik Sipil adalah Kunci",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-assets/main/comics/the-greatest-estate-developer/ch-002/003.jpg"
+      ]
+    }
+  ]
+}
