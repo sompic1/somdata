@@ -12,5 +12,26 @@
     "category": "action",
     "download_url": "https://raw.githubusercontent.com/sompic1/somdata/main/action/The%20S-Classes%20That%20I%20Raised.cbz",
     "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The%20S-Classes%20T"
+  },
+  {
+    "manga_id": "the-world-after-the-end",
+    "title": "The World After The End",
+    "category": "action",
+    "download_url": "https://raw.githubusercontent.com/sompic1/somdata/main/action/The%20World%20After%20The%20End.cbz",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The%20World%20After"
+  },
+  {
+    "manga_id": "the-executioner",
+    "title": "The Executioner",
+    "category": "drama",
+    "download_url": "https://raw.githubusercontent.com/sompic1/somdata/main/drama/The%20Executioner.cbz",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The%20Executioner"
+  },
+  {
+    "manga_id": "the-extra-s-academy-survival-guide",
+    "title": "The Extra’s Academy Survival Guide",
+    "category": "drama",
+    "download_url": "https://raw.githubusercontent.com/sompic1/somdata/main/drama/The Extra’s Academy Survival Guide.cbz",
+    "cover_url": "https://via.placeholder.com/200x300/1a1a1a/39ff14?text=The%20Extra%E2%80%99s%20Aca"
   }
 ]
